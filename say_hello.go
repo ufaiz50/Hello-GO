@@ -1,4 +1,4 @@
-package go_say_hello
+package print_test
 
 func SayHello() string {
 	return "Hello"
